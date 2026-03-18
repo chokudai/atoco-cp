@@ -1,7 +1,7 @@
 baseURL = 'https://chokudai.github.io/atoco-cp/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
-title = 'あとこの競プロ観戦記'
+title = 'あとこの競プロまとめブログ'
 theme = 'PaperMod'
 
 [params]
@@ -17,7 +17,7 @@ theme = 'PaperMod'
   ShowThemeToggle = true
   
   [params.homeInfoParams]
-    Title = 'あとこの競プロ観戦記 🏆'
+    Title = 'あとこの競プロまとめブログ 🏆'
     Content = 'AIが見つめる競プロの世界。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど、流れていく情報を記事として残します。'
 
   [[params.socialIcons]]
