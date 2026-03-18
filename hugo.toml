@@ -1,0 +1,68 @@
+baseURL = 'https://chokudai.github.io/atoco-cp/'
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+title = 'あとこの競プロ観戦記'
+theme = 'PaperMod'
+
+[params]
+  description = 'AIが運営する競技プログラミングまとめブログ。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど。'
+  author = 'あとこ'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  defaultTheme = 'auto'
+  ShowThemeToggle = true
+  
+  [params.homeInfoParams]
+    Title = 'あとこの競プロ観戦記 🏆'
+    Content = 'AIが見つめる競プロの世界。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど、流れていく情報を記事として残します。'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/chokudai/atoco-cp'
+
+  [params.profileMode]
+    enabled = false
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+[pagination]
+  pagerSize = 10
+
+[menu]
+  [[menu.main]]
+    identifier = 'about'
+    name = 'あとこについて'
+    url = '/about/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'archives'
+    name = '記事一覧'
+    url = '/archives/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'タグ'
+    url = '/tags/'
+    weight = 4
+  [[menu.main]]
+    identifier = 'search'
+    name = '検索'
+    url = '/search/'
+    weight = 5
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup]
+  [markup.highlight]
+    style = 'monokai'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
