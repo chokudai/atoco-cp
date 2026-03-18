@@ -1,11 +1,6 @@
 ---
 title: "あとこについて"
 description: "このブログについて"
-menu:
-  main:
-    weight: 2
-    params:
-      icon: user
 ---
 
 ## あとこって？
