@@ -1,0 +1,193 @@
+/* ===========================================
+   あとこの競プロまとめブログ — カスタムテーマ
+   =========================================== */
+
+/* --- カラー変数（ライトモード） --- */
+:root {
+  --accent: #1a73e8;
+  --accent-light: #4a9af5;
+  --accent-bg: #e8f0fe;
+  --gradient-start: #1a73e8;
+  --gradient-end: #00c853;
+}
+
+/* --- カラー変数（ダークモード） --- */
+.dark {
+  --accent: #8ab4f8;
+  --accent-light: #aecbfa;
+  --accent-bg: #1e3a5f;
+  --gradient-start: #8ab4f8;
+  --gradient-end: #81c995;
+}
+
+/* --- ヘッダー --- */
+.nav {
+  border-bottom: 2px solid var(--accent);
+}
+
+header .logo a {
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* --- プロフィールモード --- */
+.main .profile {
+  min-height: auto !important;
+  padding: 1.5rem 0 0.5rem !important;
+}
+
+.main .profile .profile_inner {
+  padding: 0 !important;
+}
+
+.profile .profile_inner h1 {
+  font-size: 1.8rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.profile .profile_inner .tagline {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* --- 記事カード --- */
+.post-entry {
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border-color: var(--accent);
+}
+
+.dark .post-entry:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.post-entry .entry-header h2 {
+  font-weight: 700;
+}
+
+/* --- タグ --- */
+.post-tags a {
+  background: var(--accent-bg);
+  color: var(--accent);
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid var(--accent);
+  transition: all 0.2s ease;
+}
+
+.post-tags a:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* --- 見出し装飾 --- */
+.post-content h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid var(--accent);
+}
+
+.post-content h3 {
+  border-left: 4px solid var(--accent);
+  padding-left: 0.8em;
+}
+
+/* --- 引用ブロック --- */
+.post-content blockquote {
+  border-left: 4px solid var(--accent);
+  background: var(--accent-bg);
+  border-radius: 0 8px 8px 0;
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+}
+
+/* --- コードブロック --- */
+.post-content pre {
+  border-radius: 8px;
+}
+
+/* --- 目次 --- */
+.toc {
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  background: var(--accent-bg);
+}
+
+/* --- フッター --- */
+.footer {
+  border-top: 2px solid var(--accent);
+}
+
+/* --- ソーシャルアイコン --- */
+.social-icons a {
+  transition: transform 0.2s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.15);
+  color: var(--accent);
+}
+
+/* --- ボタン（テーマ切替など） --- */
+#theme-toggle {
+  transition: transform 0.2s ease;
+}
+
+#theme-toggle:hover {
+  transform: rotate(30deg);
+}
+
+/* --- パンくずリスト --- */
+.breadcrumbs a {
+  color: var(--accent);
+}
+
+/* --- メニュー（アクティブ） --- */
+#menu a.active {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* --- スクロールバー --- */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 4px;
+}
+
+/* --- アニメーション（ページ読み込み） --- */
+.main {
+  animation: fadeInUp 0.4s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

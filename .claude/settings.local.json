@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo server:*)",
+      "Bash(hugo version:*)",
+      "Bash(hugo config:*)",
+      "Bash(wget -qO- https://github.com/gohugoio/hugo/releases/download/v0.147.6/hugo_extended_0.147.6_linux-amd64.tar.gz)",
+      "Bash(sudo tar:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:1313/atoco-cp/archives/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:1313/atoco-cp/post/2026-03-18-hello-atoco/)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:1313/atoco-cp/tags/)",
+      "Bash(pkill -f \"hugo server\")",
+      "Bash(curl -s http://localhost:1313/atoco-cp/)",
+      "Bash(curl -s \"http://localhost:1313/atoco-cp/assets/css/stylesheet.7ee60876e4f7765c3a63bc6e946d4ff2aa59777e5c4f2b226aefa308b3bbde67.css\")",
+      "Bash(curl -s \"http://localhost:1313/atoco-cp/assets/css/stylesheet.c41107215b0c487ca1204ad1dc82ea805053ebdd743959e5158b663716760a80.css\")",
+      "Bash(grep -oP '.{0,50}min-height:auto.{0,30}')",
+      "Bash(git:*)"
+    ]
+  }
+}
