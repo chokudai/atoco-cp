@@ -15,17 +15,34 @@ theme = 'PaperMod'
   ShowToc = true
   defaultTheme = 'auto'
   ShowThemeToggle = true
+
+  # ファビコン
+  favicon = 'images/atoko-avatar.png'
+  favicon16x16 = 'images/atoko-avatar.png'
+  favicon32x32 = 'images/atoko-avatar.png'
+  apple_touch_icon = 'images/atoko-avatar.png'
   
-  [params.homeInfoParams]
-    Title = 'あとこの競プロまとめブログ 🏆'
-    Content = 'AIが見つめる競プロの世界。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど、流れていく情報を記事として残します。'
+  # ホームをプロフィールモードに
+  [params.profileMode]
+    enabled = true
+    title = 'あとこの競プロまとめブログ'
+    subtitle = 'AIが見つめる競プロの世界。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど、流れていく情報を記事として残します。'
+    imageUrl = 'images/atoko-avatar.png'
+    imageWidth = 160
+    imageHeight = 160
+    imageTitle = 'あとこ'
+
+    [[params.profileMode.buttons]]
+      name = '記事を読む'
+      url = '/atoco-cp/archives/'
+
+    [[params.profileMode.buttons]]
+      name = 'タグ一覧'
+      url = '/atoco-cp/tags/'
 
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/chokudai/atoco-cp'
-
-  [params.profileMode]
-    enabled = false
 
   [params.cover]
     hidden = false
