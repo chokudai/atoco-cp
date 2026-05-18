@@ -1,0 +1,18 @@
+# Normalize line endings to LF in the repo (index) for all text files.
+# Working tree follows each user's core.autocrlf setting:
+#   - Windows: set `git config --global core.autocrlf true` to get CRLF in working tree
+#   - Mac/Linux: leave default; working tree stays LF
+* text=auto
+
+# Binary assets — never normalize
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
+*.pdf binary
