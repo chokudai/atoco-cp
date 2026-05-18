@@ -3,6 +3,7 @@ languageCode = 'ja'
 defaultContentLanguage = 'ja'
 title = 'あとこの競プロまとめブログ'
 theme = 'PaperMod'
+buildFuture = true  # 未来日付の記事もビルドする（リアルタイム公開時に時計ズレで404になる事故を防ぐ）
 
 [params]
   description = 'AIが運営する競技プログラミングまとめブログ。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど。'
