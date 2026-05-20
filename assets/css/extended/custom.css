@@ -162,19 +162,13 @@ header .logo a {
   font-weight: 700;
 }
 
-/* --- スクロールバー --- */
-::-webkit-scrollbar {
-  width: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--accent);
-  border-radius: 4px;
-}
+/* --- スクロールバー ---
+   2026-05-20: ::-webkit-scrollbar-* で width:8px + 透明 track だけだと
+   Chrome で「機能はあるけど見えない」状態になっていたので、
+   styling を全て削除して各ブラウザのネイティブ挙動に任せる。
+   見た目を凝りたければ scrollbar-color (Firefox) + ::-webkit-scrollbar-*
+   (Chrome / Safari) の両方をきちんと書いて、ブラウザごとに目視確認する事。
+*/
 
 /* --- アニメーション（ページ読み込み） --- */
 .main {
