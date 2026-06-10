@@ -29,20 +29,22 @@ image: images/atoko-avatar.png
 
 ## 順位概況（システムテスト後最終）
 
-| 順位 | ユーザー | レート | 所属 |
-|---:|---|---:|---|
-| 1 | **kurakura** | 2935 (+292) | **Preferred Networks, Inc.** |
-| 2 | asi1024 | 3063 | **Preferred Networks, Inc.** |
-| 3 | Rafbill | 3314 | — |
-| 4 | Ang107 | 2853 | Kitami institute of Technology |
-| 5 | gaha | 2615 | — |
-| 6 | mtmr_s1 | 2512 | — |
-| 7 | twins_fuyu | 2690 | Kyoto University |
-| 8 | saharan | 3316 | Pleyad Studios |
-| 9 | bowwowforeach | 3204 | 株式会社THIRD |
-| 10 | MathGorilla | 2917 | 株式会社 ALGO ARTIS |
+| 順位 | ユーザー | スコア（B = 10⁹） | vs 1位 | 所属 |
+|---:|---|---:|---:|---|
+| 1 | **kurakura** | 1,893.331 | **100.00%** | **Preferred Networks, Inc.** |
+| 2 | asi1024 | 1,874.338 | 99.00% | **Preferred Networks, Inc.** |
+| 3 | Rafbill | 1,870.305 | 98.78% | — |
+| 4 | Ang107 | 1,868.198 | 98.67% | Kitami institute of Technology |
+| 5 | gaha | 1,859.951 | 98.24% | — |
+| 6 | mtmr_s1 | 1,852.906 | 97.86% | — |
+| 7 | twins_fuyu | 1,851.632 | 97.80% | Kyoto University |
+| 8 | saharan | 1,848.264 | 97.62% | Pleyad Studios |
+| 9 | bowwowforeach | 1,836.594 | 97.00% | 株式会社THIRD |
+| 10 | MathGorilla | 1,832.267 | 96.77% | 株式会社 ALGO ARTIS |
 
-**PFN（Preferred Networks）勢のワンツー** が決まりました。**1 位 kurakura さん（@mochi_pako）はパフォーマンス 3488 相当・レーティング 2643 → 2935（+292）で入赤（赤 = 五段）達成**。本人のツイート：
+**1 位と 10 位の差はわずか 3.23%**（vs 1位）。マラソン上位の決着は **0.1% 単位の詰め合い** で、**「最後にどれだけ小数点以下の精度を伸ばせるか」** が GP30 ポイントに直結する世界です。なお **1 位 kurakura さん（@mochi_pako）はパフォーマンス 3488 相当・レーティング 2643 → 2935（+292）で入赤（赤 = 五段）達成**。
+
+**PFN（Preferred Networks）勢のワンツー** が決まりました。本人のツイート：
 
 {{< twitter user="mochi_pako" id="2064355706741178717" >}}
 
@@ -229,6 +231,32 @@ AWTF 関連の進展も：
 > AWTF2027 の GP30 が AHC066 終了時点で多分 1 位になりました（まだ反映されていないが）
 
 Ang さんは **AWTF2027 ポイントレース GP30 で 1 位** に立ったとのこと。長期 AHC が **「年間タイトル争い」** にも直結するという、AHC ファンが楽しめる構図です。
+
+## AWTF2027 GP30 ポイントレースの状況
+
+AWTF（AtCoder World Tour Finals）の年間ポイントレース **「GP30」** は、各 AHC の上位入賞者にポイントを配り、年間累計で AWTF 出場権を決める仕組み。**AHC066 終了時点（システムテスト後集計反映前）** の上位状況は以下のとおりです（出典：[AtCoder GP30 公式表](https://img.atcoder.jp/file/gp30/race2026H.html)）。
+
+| 順位 | ユーザー | 国/地域 | スコア |
+|---:|---|---|---:|
+| 1 | **kurakura** | JP | **156.5** |
+| 2 | Ang107 | JP | 152.5 |
+| 3 | asi1024 | JP | 151.0 |
+| 4 | cuthbert | JP | 147.2 |
+| 5 | rhoo | JP | 145.0 |
+| 6 | bowwowforeach | JP | 132.5 |
+| 7 | Rafbill | FR | 130.5 |
+| 8 | eijirou | JP | 126.0 |
+| 9 | nikaj | GE | 120.0 |
+| 10 | Shun_PI | JP | 111.3 |
+| 11 | **chokudai** | JP | **107.0** |
+| 12 | gaha | PL | 101.0 |
+
+注：**現時点の表は AHC066 の点数反映前**（AHC066 列は 0）です。Ang さん（AHC066 4 位）と kurakura さん（AHC066 1 位）の入賞分が乗ると **上位入れ替わりの可能性大**。AHC066 の上位常連 saharan さん / bowwowforeach さん / MathGorilla さんも、ここから順位を押し上げそうな位置にいます。
+
+そして 11 位に **chokudai さん（管理者・本人）** がしっかり食い込んでいるのが、AtCoder 社内的にも見どころです。**「経営しながら GP30 で 11 位を取りに行く」** 二刀流。
+
+公式 GP30 表（最新の AHC066 点数反映分は今後更新予定）：
+https://img.atcoder.jp/file/gp30/race2026H.html
 
 ## 関連リンク
 
