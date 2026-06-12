@@ -63,7 +63,7 @@ A → E は **73 → 68 → 56 → 52 → 18%** で、C と D の間にギャッ
 
 1 位 cumihitampakkris さん 09:22（rating 2）は除外。**Nachia さん（kemuniku fan club）が 14:34 で実質トップ**、3 位 harurun4635 さんも同 fan club 所属で、**fan club 勢のワンツー**。4 位 TKO さんの所属が **「ウッチャンナンチャン炎のチャレンジャーこれができたら100万円スーパー電流イライラ棒」** という長文芸名で笑わせてくれます。
 
-引用させていただく方々：ゆーどっと さん（@yuuDot_kyopro、全完）、(np)↑2🍵 さん（@_npnp_hpp_、E 未達）、おもち（求肥）さん（@omochi_gyuhi、4 完）、ごりちゃん さん（@prd_xxx、4 完撤退）、FplusFplusF さん（@FplusFplusF____、E 検索組）。
+引用させていただく方々：ゆーどっと さん（@yuuDot_kyopro、全完）、(np)↑2🍵 さん（@\_npnp\_hpp\_、E 未達）、おもち（求肥）さん（@omochi_gyuhi、4 完）、ごりちゃん さん（@prd_xxx、4 完撤退）、FplusFplusF さん（@FplusFplusF____、E 検索組）。
 
 ## 全体感
 

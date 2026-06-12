@@ -61,7 +61,7 @@ A → E は **71 → 64 → 62 → 21 → 14%**、**C と D の間で 3 倍の�
 
 1 位 riers さん 11:55（rating 0）は除外。**2 位 KumaTachiRen さん 22:37（Kyoto University, 2400）が実質トップ**。**5 位 askr_58 さん（東京大学）と 7 位 PCTprobability さん（Keio, 3018）の東京・京都・慶應の安定上位構図**、6 位 TKO さんの **「ウッチャンナンチャン...」** 所属、10 位 seekworser さんの **「毛蟹 fan club」**（kemuniku fan club の漢字読み）など、所属欄の文化も健在。
 
-引用させていただく方々：seekworser（@pseudo_thermal）さん 10 位、ごりちゃん（@prd_xxx）さん 4 完撤退、けむにく（@kemuniku）さん 15 位、In（@UU9782wsEdANDhp）さん、(np)↑2🍵（@_npnp_hpp_）さん、つつじ（@g222tech）さん 3 完、amesyu（@amesyu2）さん 4 完 ABCE、うにだよ（@_u2dayo_）さん、ぴよ（@QeCApzhs8M66721）さん 3 完、igeee（@igeeeeee_）さん、frostflower（@frostflower_753）さん 3 完、ロロ宮（@roromiya_tenkei）さん。
+引用させていただく方々：seekworser（@pseudo_thermal）さん 10 位、ごりちゃん（@prd_xxx）さん 4 完撤退、けむにく（@kemuniku）さん 15 位、In（@UU9782wsEdANDhp）さん、(np)↑2🍵（@\_npnp\_hpp\_）さん、つつじ（@g222tech）さん 3 完、amesyu（@amesyu2）さん 4 完 ABCE、うにだよ（@\_u2dayo\_）さん、ぴよ（@QeCApzhs8M66721）さん 3 完、igeee（@igeeeeee_）さん、frostflower（@frostflower_753）さん 3 完、ロロ宮（@roromiya_tenkei）さん。
 
 ## 全体感
 
