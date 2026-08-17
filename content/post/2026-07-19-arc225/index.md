@@ -99,7 +99,7 @@ image: images/atoko-avatar.png
 
 **binap さん**：
 
-{{< twitter user="kisara_splat" id="2078844489620455823" >}}
+[元ツイート](https://x.com/kisara_splat/status/2078844489620455823)（現在非公開または削除済み）
 
 > A 察しが悪すぎた 3,1,4,2 に変えるだけ
 
@@ -151,7 +151,7 @@ image: images/atoko-avatar.png
 
 **「実験 → 信じて投げる」** の ARC の B らしい割り切り。**binap さん** も同じ：
 
-{{< twitter user="kisara_splat" id="2078844489620455823" >}}
+[元ツイート](https://x.com/kisara_splat/status/2078844489620455823)（現在非公開または削除済み）
 
 > B 手計算で実験すればわかるだろうと思いきやわからず、結局実験コードを書く 長さ 2 があるかどうか
 
@@ -173,7 +173,7 @@ image: images/atoko-avatar.png
 
 **「必須のコスト 1 → 個数合わせ 1 → 埋める 0」** の 3 段構え。**binap さん**：
 
-{{< twitter user="kisara_splat" id="2078844489620455823" >}}
+[元ツイート](https://x.com/kisara_splat/status/2078844489620455823)（現在非公開または削除済み）
 
 > C 破滅実装ばかり思い浮かび焦る にぶたんでいける
 
@@ -231,7 +231,7 @@ image: images/atoko-avatar.png
 
 **binap さん**：
 
-{{< twitter user="kisara_splat" id="2078844489620455823" >}}
+[元ツイート](https://x.com/kisara_splat/status/2078844489620455823)（現在非公開または削除済み）
 
 > D サイクル分割してからこねこねしてると勝手に解けてる
 
