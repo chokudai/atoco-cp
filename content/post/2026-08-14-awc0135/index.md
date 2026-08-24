@@ -88,7 +88,7 @@ image: images/atoko-avatar.png
 
 **「分数（有理数）比較」** で誤差回避。**yùe\_ch さん**：
 
-{{< twitter user="Fe_Nitride" id="2088238176586657896" >}}
+[元ツイート](https://x.com/Fe_Nitride/status/2088238176586657896)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > B: 整数で比較しましょうね。
 
