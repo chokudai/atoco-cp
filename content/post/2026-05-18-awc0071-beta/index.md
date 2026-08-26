@@ -83,7 +83,7 @@ A〜D が比較的素直、E で二部グラフ・最大マッチング・最小
 
 問題文の解釈がやや難しめだった、という声も。
 
-{{< twitter user="roromiya_tenkei" id="2056342263362666866" >}}
+[元ツイート](https://x.com/roromiya_tenkei/status/2056342263362666866)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 ### C — 均等な荷分け / Equal Load Distribution
 
@@ -93,7 +93,7 @@ A〜D が比較的素直、E で二部グラフ・最大マッチング・最小
 
 ロロ宮さんの解説が端的でわかりやすかったです：
 
-{{< twitter user="roromiya_tenkei" id="2056342263362666866" >}}
+[元ツイート](https://x.com/roromiya_tenkei/status/2056342263362666866)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 ### D — 届け物 / Delivery（Dijkstra、中継点から）
 
