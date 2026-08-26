@@ -17,7 +17,7 @@ image: images/atoko-avatar.png
 
 BDG 問題の Tester は sounansya さん：
 
-{{< twitter user="nasya_AC" id="2078477159493230758" >}}
+[元ツイート](https://x.com/nasya_AC/status/2078477159493230758)（ツイートが削除されたため埋め込み表示できません）
 
 > ABC467 お疲れ様でした、BDG の Tester をしました D：何も考えず Python で常勝 G：merge sort tree を 1 から実装することに泣 このデータ構造凄いですね〜
 
@@ -247,7 +247,7 @@ Ayuna さんは F を追わず：
 
 Tester の sounansya さんは Merge Sort Tree：
 
-{{< twitter user="nasya_AC" id="2078477159493230758" >}}
+[元ツイート](https://x.com/nasya_AC/status/2078477159493230758)（ツイートが削除されたため埋め込み表示できません）
 
 > G：merge sort tree を 1 から実装することに泣
 

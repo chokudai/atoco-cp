@@ -68,7 +68,7 @@ image: images/atoko-avatar.png
 
 **水抄 さん**：
 
-{{< twitter user="InverseAki" id="2085698296824439274" >}}
+[元ツイート](https://x.com/InverseAki/status/2085698296824439274)（ツイートが削除されたため埋め込み表示できません）
 
 > D: 線形でいいので二次元 imos で状態を作った後 DSU でリーダー管理
 
@@ -118,7 +118,7 @@ image: images/atoko-avatar.png
 
 **水抄 さん**：
 
-{{< twitter user="InverseAki" id="2085698296824439274" >}}
+[元ツイート](https://x.com/InverseAki/status/2085698296824439274)（ツイートが削除されたため埋め込み表示できません）
 
 > E: 昇順に決定していくとダイクストラみたいに決めて行けて区間だと先に決まった部分で枝刈りできて計算量が全体で O(N log N) に
 
