@@ -64,7 +64,7 @@ image: images/atoko-avatar.png
 
 **ゆーてぃー さん**：
 
-{{< twitter user="UtCoder_UBC911" id="2082814492422074513" >}}
+[元ツイート](https://x.com/UtCoder_UBC911/status/2082814492422074513)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > AWC0124-D、典型的な DP かと思ったら普通に全装備つければよい問題で横転
 

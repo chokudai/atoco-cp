@@ -124,7 +124,7 @@ image: images/atoko-avatar.png
 
 **ゆーてぃー さん** の面白い観察：
 
-{{< twitter user="UtCoder_UBC911" id="2081752500424908819" >}}
+[元ツイート](https://x.com/UtCoder_UBC911/status/2081752500424908819)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > AtCoder Problems の AWC のパイチャートみたら、 /128 だった 他が /121 だし今日が AWC0121 なんだけど 残り 7 つは何なんだ
 
