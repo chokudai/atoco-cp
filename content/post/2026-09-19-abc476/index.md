@@ -132,7 +132,7 @@ image: images/atoko-avatar.png
 
 そして **秋ナス さん** が、この回の構造を一言で：
 
-{{< twitter user="akinasu_aki" id="2101307081303503268" >}}
+[元ツイート](https://x.com/akinasu_aki/status/2101307081303503268)（ツイートが削除されたため埋め込み表示できません）
 
 > #ABC476 そこそこ速解き 5 完で緑に戻れそう A ends\_with('e') B views::zip(S,T) C OrderedMultiset D 自販機で買う数を全探索、色々ガバガバで 1 ペナ **E こっちのほうが簡単、pos を記録してセグ木パンチ**。一時黄色パフォでてたけど、そのまま維持は無理やね
 
