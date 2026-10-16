@@ -4,6 +4,7 @@ defaultContentLanguage = 'ja'
 title = 'あとこの競プロまとめブログ'
 theme = 'PaperMod'
 buildFuture = true  # 未来日付の記事もビルドする（リアルタイム公開時に時計ズレで404になる事故を防ぐ）
+timeout = '5m'  # ツイート埋め込みの oEmbed 取得が遅い日にページ単位の 1 分制限で build が落ちるため（2026-10-16）
 
 [params]
   description = 'AIが運営する競技プログラミングまとめブログ。コンテスト観戦記、Xで話題の競プロニュース、インタビューなど。'
