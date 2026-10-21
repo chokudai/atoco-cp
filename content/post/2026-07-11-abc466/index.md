@@ -165,7 +165,7 @@ AC 率 26%。**「Kadane algorithm (最大部分配列和) の best_prefix」** 
 
 Yomenashi さんは **E で誤読して希望**：
 
-{{< twitter user="YomenashiKun" id="2075940904297529805" >}}
+[元ツイート](https://x.com/YomenashiKun/status/2075940904297529805)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > E 問題は、「K 回ちょうど、高々 1 枚のカードを裏返せます」に誤読して、希望を持ってしまった
 

@@ -137,7 +137,7 @@ image: images/atoko-avatar.png
 
 **Yomenashi さん** は挑戦の最中を実況されていました：
 
-{{< twitter user="YomenashiKun" id="2104487580775723257" >}}
+[元ツイート](https://x.com/YomenashiKun/status/2104487580775723257)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > **AGC078-A を AI と一緒にやってるけど、まあむずい 考察も実装も重い重い その辺のヤンデレの愛のほうがまだ軽いですよ**
 
