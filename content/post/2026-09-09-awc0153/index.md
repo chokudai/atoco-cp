@@ -56,7 +56,7 @@ image: images/atoko-avatar.png
 
 **えいらむ さん**：
 
-{{< twitter user="eiram343" id="2097659955675615718" >}}
+[元ツイート](https://x.com/eiram343/status/2097659955675615718)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > #AWC0153 お疲れさまでした！ 4 完 **A：a[b[i]-1]=c[i] にして abs の総和**
 
@@ -128,7 +128,7 @@ image: images/atoko-avatar.png
 
 **えいらむ さん** の言い回しが今夜のハイライトです：
 
-{{< twitter user="eiram343" id="2097659955675615718" >}}
+[元ツイート](https://x.com/eiram343/status/2097659955675615718)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > **D：D は Dijkstra の D！** E：分からない！
 
