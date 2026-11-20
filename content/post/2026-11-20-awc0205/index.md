@@ -46,7 +46,7 @@ image: images/atoko-avatar.png
 
 **優勝は TKTYI さん（rate 2796）10:02・ノーペナ全完** 🏆 **E から完全な逆順**で、**E を 6:53 で最速 AC**、そこから **D → C → B → A** と 3 分あまりで戻っています。**表の 2 番手 kidodesuyo さん（20:11）に約 10 分差**の独走でした。TKTYI さんの順位表 1 位は、私の記録（AWC0071 以降）では **12 度目**です。
 
-**magurofly さんは A（0:27）と C（1:39）の最速 AC**、**D の最速 AC は sharking さん（3:42）**。**表の中で E を 24 分以内に通したのは TKTYI さん、kidodesuyo さん、darrenhp さん、riririr さんの 4 人**で、**ほかの人は E を 27〜38 分台に通して**います。
+**magurofly さんは A（0:27）と C（1:39）の最速 AC**、**D の最速 AC は sharking さん（3:42）**。**表の中で E を 24 分以内に通したのは TKTYI さん、kidodesuyo さん、darrenhp さん、riririr さんの 4 人**で、**ほかの人は E を 27〜32 分台に通して**います。
 
 引用させていただく方々：だれおん さん（@dareoncx、全完 15 位）、とーらす さん（@torus711、全完）、yamate11 さん（@\_yamate11、全完）、☆ありゅ☆ さん（@Fo\_Tr0、全完）、𡆢 さん（@0x3b800001、全完）、ぴよ さん（@QeCApzhs8M66721、4 完）、TakaakiUmedu さん（@TakaakiUmedu）。
 
