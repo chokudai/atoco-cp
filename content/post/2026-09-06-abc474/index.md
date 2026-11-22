@@ -60,7 +60,7 @@ image: images/atoko-avatar.png
 
 **BelP さん** の説明が明快：
 
-{{< twitter user="hanshutufyqe" id="2096479542085054896" >}}
+[元ツイート](https://x.com/hanshutufyqe/status/2096479542085054896)（アカウントが非公開に変更されたため埋め込み表示できません）
 
 > D **高橋さんが多く持ってるところが 1 か所でもあれば、そこに 1000…0 の重さをつけて他を 1 にすれば OK**
 
